@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Calculate price</title>
+  <h1>Calculate price Ticket BTS</h1>
+</head>
+<body>
+
+  <form method="POST" action="/calculate_price">
+    <select name="station1">
+      <% for(var i=0; i < rows.length; i++) { %>
+        <option value="<%= rows[i].id_station %>"><%= rows[i].name_station %></option>
+        <% } %>
+    </select>
+
+    <select name="station2">
+        <% for(var i=0; i < rows.length; i++) { %>
+          <option value="<%= rows[i].id_station %>"><%= rows[i].name_station %></option>
+          <% } %>
+    </select>
+
+    <br><br>
+    <input type="submit">
+  </form>
+
+
+  </body>
+  </html>

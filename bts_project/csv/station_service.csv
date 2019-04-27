@@ -1,0 +1,205 @@
+id_service,Station_id_station,Service
+1,N8,ATM
+2,N8,Elevator
+3,N8,Escalator
+4,N8,First Aids Room
+5,N8,AED
+6,N8,BMA Express
+7,N7,ATM
+8,N7,Escalator
+9,N7,First Aids Room
+10,N5,ATM
+11,N5,Elevator
+12,N5,Escalator
+13,N5,First Aids Room
+14,N4,ATM
+15,N4,Elevator
+16,N4,Escalator
+17,N4,First Aids Room
+18,N3,ATM
+19,N3,Elevator
+20,N3,Escalator
+21,N3,First Aids Room
+22,N3,AED
+23,N3,Sky bridge Connection
+24,N2,ATM
+25,N2,Elevator
+26,N2,Escalator
+27,N2,First Aids Room
+28,N2,AED
+29,N2,Sky bridge Connection
+30,N1,ATM
+31,N1,Elevator
+32,N1,Escalator
+33,N1,First Aids Room
+34,N1,Sky bridge Connection
+35,CEN,ATM
+36,CEN,Elevator
+37,CEN,Escalator
+38,CEN,First Aids Room
+39,CEN,AED
+40,CEN,Sky bridge Connection
+41,E1,ATM
+42,E1,Elevator
+43,E1,Escalator
+44,E1,First Aids Room
+45,E1,AED
+46,E1,Sky bridge Connection
+47,E2,ATM
+48,E2,Elevator
+49,E2,Escalator
+50,E2,First Aids Room
+51,E2,Sky bridge Connection
+52,E3,ATM
+53,E3,Elevator
+54,E3,Escalator
+55,E3,First Aids Room
+56,E4,ATM
+57,E4,Elevator
+58,E4,Escalator
+59,E4,First Aids Room
+60,E4,AED
+61,E4,Sky bridge Connection
+62,E5,ATM
+63,E5,Elevator
+64,E5,Escalator
+65,E5,First Aids Room
+66,E5,AED
+67,E5,Sky bridge Connection
+68,E5,BMA Express
+69,E6,ATM
+70,E6,Elevator
+71,E6,Escalator
+72,E6,First Aids Room
+73,E6,Sky bridge Connection
+74,E7,ATM
+75,E7,Elevator
+76,E7,Escalator
+77,E7,First Aids Room
+78,E7,Sky bridge Connection
+79,E8,ATM
+80,E8,Elevator
+81,E8,Escalator
+82,E8,First Aids Room
+83,E9,ATM
+84,E9,Elevator
+85,E9,Escalator
+86,E9,First Aids Room
+87,E9,AED
+88,E9,Sky bridge Connection
+89,E10,Elevator
+90,E10,Escalator
+91,E10,First Aids Room
+92,E10,Toilet
+93,E11,Elevator
+94,E11,Escalator
+95,E11,First Aids Room
+96,E11,Toilet
+97,E12,Elevator
+98,E12,Escalator
+99,E12,First Aids Room
+100,E12,Toilet
+101,E12,BMA Express
+102,E13,Elevator
+103,E13,Escalator
+104,E13,First Aids Room
+105,E13,Toilet
+106,E14,Elevator
+107,E14,Escalator
+108,E14,First Aids Room
+109,E14,Toilet
+110,E15,Elevator
+111,E15,Escalator
+112,E15,First Aids Room
+113,E15,Sky bridge Connection
+114,E15,Toilet
+115,E16,Elevator
+116,E16,Escalator
+117,E16,First Aids Room
+118,E16,Toilet
+119,E17,Elevator
+120,E17,Escalator
+121,E17,First Aids Room
+122,E17,Toilet
+123,E18,Elevator
+124,E18,Escalator
+125,E18,First Aids Room
+126,E18,Toilet
+127,E19,Elevator
+128,E19,Escalator
+129,E19,First Aids Room
+130,E19,Toilet
+131,E20,Elevator
+132,E20,Escalator
+133,E20,First Aids Room
+134,E20,Toilet
+135,E21,Elevator
+136,E21,Escalator
+137,E21,First Aids Room
+138,E21,Toilet
+139,E22,Elevator
+140,E22,Escalator
+141,E22,First Aids Room
+142,E22,Toilet
+143,E23,Elevator
+144,E23,Escalator
+145,E23,First Aids Room
+146,E23,Toilet
+147,W1,ATM
+148,W1,Elevator
+149,W1,Escalator
+150,W1,First Aids Room
+151,W1,Sky bridge Connection
+152,S1,ATM
+153,S1,Elevator
+154,S1,Escalator
+155,S1,First Aids Room
+156,S1,Sky bridge Connection
+157,S2,ATM
+158,S2,Elevator
+159,S2,Escalator
+160,S2,First Aids Room
+161,S2,Sky bridge Connection
+162,S2,Credit Bureau
+163,S3,ATM
+164,S3,Elevator
+165,S3,Escalator
+166,S3,First Aids Room
+167,S3,Sky bridge Connection
+168,S3,AED
+169,S5,ATM
+170,S5,Elevator
+171,S5,Escalator
+172,S5,First Aids Room
+173,S5,Sky bridge Connection
+174,S6,ATM
+175,S6,Escalator
+176,S6,First Aids Room
+177,S7,ATM
+178,S7,Elevator
+179,S7,Escalator
+180,S7,First Aids Room
+181,S7,Toilet
+182,S8,ATM
+183,S8,Elevator
+184,S8,Escalator
+185,S8,First Aids Room
+186,S8,Toilet
+187,S8,BMA Express
+188,S9,Elevator
+189,S9,Escalator
+190,S9,First Aids Room
+191,S9,Toilet
+192,S10,Elevator
+193,S10,Escalator
+194,S10,First Aids Room
+195,S10,Toilet
+196,S11,Elevator
+197,S11,Escalator
+198,S11,First Aids Room
+199,S11,Toilet
+200,S12,Elevator
+201,S12,Escalator
+202,S12,First Aids Room
+203,S12,Toilet
+204,S12,AED

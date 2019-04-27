@@ -1,0 +1,170 @@
+id_surrounding,Station_id_station,surrounding
+1,N8,Chatuchak Park
+2,N8,BBTV Channel 7
+3,N8,Thai Rath
+4,N8,Queen Sirikit Park
+5,N7,Sam Sen Nai Post Office
+6,N7,Srithai Market
+7,N7,Government Savings Bank(Head office)
+8,N7,Bangsue Police Station
+9,N5,Export-Import Bank of Thailand(EXIM Thailand)
+10,N5,Bangkok Area Revenue Office4
+11,N5,Phayathai District Office
+12,N4,2nd Cavalry Division The King's Guard Royal Thai Army
+13,N4,Royal Thai Army Radio and Television Station(Channel5)
+14,N4,Forth Corporation Public Co. Ltd.
+15,N3,Santiphab Park
+16,N3,Center One Shopping Plaza
+17,N3,Victory Mall
+18,N3,Victory Plaza
+19,N3,Payathai Palace
+20,N2,Bangkok Area Revenue Office5
+21,N2,Phayathai Plaza
+22,N2,C.P. Tower3
+23,N2,Ratchathewi Post Office
+24,N2,Department of Livestock Development
+25,N1,CHRISTIAN UNIVERSITY OF THAILAND
+26,N1,CO-CO Walk
+27,N1,Hollywood Street
+28,N1,Defence Energy Department
+29,CEN,Siam Center
+30,CEN,Siam Paragon
+31,CEN,SIAM SQUARE ONE
+32,CEN,Bangkok Art and Culture Centre
+33,CEN,Faculty of Denntistry Chulalongkorn University
+34,E1,Mater Dei School
+35,E1,Amarin Plaza
+36,E1,Erawan Bangkok
+37,E1,Central Chidlom
+38,E2,Phloen Chit Center Building
+39,E2,The British Embassy
+40,E2,The Royal Netherlands Embassy
+41,E2,The Embassy of the United States of America
+42,E2,The Embassy of the Socialist Republic of Vietnam
+43,E3,Nana Square
+44,E3,Phu Fah
+45,E3,Revenue Department
+46,E3,Embassy of Sweden
+47,E3,Nana Plaza
+48,E4,Benchakitti Park
+49,E4,Terminal 21 Shopping Mall
+50,E4,Siam Society Under Royal Patronage
+51,E4,Stamford International University
+52,E5,Benchasiri Park(Queen's Park)
+53,E5,Royal Norwegian Embassy in Bangkok
+54,E5,EmQuartier Shopping Complex
+55,E6,The Embassy of the Republic of the Philippines
+56,E6,Pridi Institute
+57,E6,Thong Lo Police Station
+58,E7,Gateway Ekamai
+59,E7,Eastern Bus Terminal
+60,E7,The Institute for the Promotion of teaching Science and Technology(IPST)
+61,E8,Rhythm Sukhumvit 44/1
+62,E8,Phra Khanong Post Office
+63,E8,St Andrews International School Bangkok
+64,E9,On Nut Market
+65,E9,Metropolitan Waterworks Authority
+66,E9,Phrakhanong District Office
+67,E10,Bang Chak Market
+68,E10,Office of Land Transportation
+69,E10,The Bangkok Institute of Technology
+70,E10,Cosmo Group Building
+71,E11,True Digital Park
+72,E11,Hafele (Thailand) Limited
+73,E11,Anglo Singapore International School
+74,E12,Udom Suk Market
+75,E12,oneudomsuk
+76,E12,Sriwattana Institute of International Business and Technology
+77,E13,Putianan Bangna Stadium
+78,E13,Khlong Bang Na Post Office
+79,E13,Meterological Department
+80,E13,Meterological Discovery Museum
+81,E14,APT Bearing Mall
+82,E14,St. Andrews International School Sukhumvit 107
+83,E14,Lasalle School Bangkok
+84,E14,Bangkok Patana School
+85,E15,Imperial World Samrong
+86,E15,Aiemcharoen Market
+87,E15,Samrongnuea Police Station
+88,E15,Samrong Post Office
+89,E16,Puchao Samrong Market
+90,E16,Thai British Security Printing Company
+91,E16,Toyota Motor Thailand Co. Ltd.
+92,E16,Panasonic Energy (Thailand) Co. Ltd.
+93,E17,Sukhumvit Park
+94,E17,The Erawan Museum
+95,E17,Samutprakan Primary Education Service Area Office 1
+96,E17,Samutprakan Provincial Education Office
+97,E17,Samutprakan Provincial Office of Buddhism
+98,E18,Naval Museum
+99,E18,Samutprakan Post Office
+100,E18,Royal Thai Naval Academy
+101,E18,Royal Thai Naval Academy Hall of Fame
+102,E19,Rama 9 Health Garden
+103,E19,Area Exise Samutprakan 1
+104,E19,Samutprakan Provincial Office of Buddhism
+105,E19,Mueang Samutprakan District Office
+106,E19,Pra Putthachinaratch Mongkol Prakan
+107,E20,Samutprakan Child Development Center
+108,E20,Public Health Service Center Thetsaban Mueang Samutprakan
+109,E20,Samutprakan Pet Hospital
+110,E20,Sangiam Phitthayanukun School
+111,E20,Nopphakhun Witthaya School
+112,E21,Robinson Samutprakan
+113,E21,Samutprakan School 
+114,E22,Rungchareon Furniture Paknam
+115,E22,Certified Repair Centers The Viriyah Insurance
+116,E23,Siam Ball Sport Factory Co. Ltd.
+117,E23,Banklongluang School
+118,E23,Prani Naowabut School
+119,E23,KM. 30 Community Police Station
+120,W1,National Stadium
+121,W1,Bangkok Art and Culture Centre
+122,W1,Pathumwan Institute of Technology
+123,W1,SIAM SQUARE ONE
+124,W1,Siam Discovery Center
+125,S1,The Royal Bangkok Sports Club (R.B.S.C.)
+126,S1,The Royal Thai Police
+127,S1,Peninsula Plaza
+128,S1,Wat Pathum Wanaram
+129,S2,Silom Complex
+130,S2,Bangkok Bank (Head Office)
+131,S2,The Embassy Of Canada
+132,S2,The Embassy Of Australia
+133,S2,Chulalongkorn Hospital
+134,S3,The Embassy Of the Republic of Singapore
+135,S3,MahaNakhon CUBE
+136,S3,Silom Plaza
+137,S3,Thai Airways International PLC. Silom Office
+138,S3,Bangkok Bank (Head Office)
+139,S5,Bangkok Christian College
+140,S5,Thai-Chinese Chamber of Commerce
+141,S5,The Embassy of the Union of Myanmar
+142,S5,The Embassy of the Holy See
+143,S5,Yannawa Police Station
+144,S6,Embassade de France en Thailand
+145,S6,Assumptionsuksa School
+146,S6,Rajamangala University of Technology Krungthep
+147,S7,INTERNATIONAL PIONEERS SCHOOL
+148,S7,Chaloemprakiarti Forest Park
+149,S7,SENA fest Community Mall
+150,S8,Wongwian Yai
+151,S8,Wongwian Yai Plaza
+152,S8,Merry King
+153,S8,Panyapiwat Techno Business
+154,S9,Wat Pho Nimit Sathit-maha-semaram
+155,S9,Pho Nimit School
+156,S9,Wongwian Yai Railway Station
+157,S9,Thonburi District Office
+158,S9,Wat Klang Market
+159,S10,The Mall Tha Pra
+160,S10,Talat Phlu Police Station
+161,S10,Wat Klang Market
+162,S11,Wat Mai Yai Nui
+163,S11,Aumnuaysit School
+164,S11,Wat Mai Yai Nui School
+165,S11,Wat Khunchan
+166,S11,Sataporn School
+167,S12,Bank of Agriculture and Agricultural Cooperatives
+168,S12,Bang khae Telephone Exchange Office
+169,S12,Saphan Taksin-Phetchakasem Pier

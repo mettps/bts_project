@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Index</title>
+    <h1><%= title %></h1>
+  </head>
+  <body>
+
+
+    Start
+    <br/>
+    <br/>
+    <table class="table table-inverse">
+        <tbody>
+          <% for(var i=0; i < rows.length; i++) { %>
+            <tr>
+
+               <td> <a href="/searching/<%= rows[i].id_station %> "> <%= rows[i].id_station %> </td>
+               <td><%= rows[i].name_station %></td>
+            </tr>
+          <% } %>
+        </tbody>
+    </table>
+    <br/>
+    End
+  </body>
+</html>

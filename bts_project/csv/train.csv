@@ -1,0 +1,93 @@
+id_train,Station_id_station,name_driver,source
+1,N8,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+2,N7,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+3,N6,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+4,N5,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+5,N4,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+6,N3,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+7,N2,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+8,N1,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+9,CEN,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+10,E1,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+11,E2,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+12,E3,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+13,E4,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+14,E5,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+15,E6,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+16,E7,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+17,E8,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+18,E9,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+19,E10,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+20,E11,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+21,E12,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+22,E13,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+23,E14,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+24,E15,คีรี กาญจนพาสน์,Sukhumvit Line Mo Chit-Samrong
+25,N8,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+26,N7,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+27,N6,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+28,N5,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+29,N4,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+30,N3,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+31,N2,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+32,N1,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+33,CEN,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+34,E1,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+35,E2,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+36,E3,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+37,E4,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+38,E5,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+39,E6,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+40,E7,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+41,E8,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+42,E9,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+43,E10,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+44,E11,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+45,E12,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+46,E13,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+47,E14,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+48,E15,พีรพงศ์ จิระเสวีจินดา,Sukhumvit Line Samrong-MoChit
+49,E15,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+50,E16,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+51,E17,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+52,E18,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+53,E19,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+54,E20,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+55,E21,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+56,E22,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+57,E23,อนันต์ สันติชีวะเสถียร,Sukhumvit Line Samrong-Kheha
+58,E15,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+59,E16,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+60,E17,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+61,E18,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+62,E19,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+63,E20,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+64,E21,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+65,E22,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+66,E23,ชิตชนก เขมาวุฒานนท์,Sukhumvit Line Kheha-Samrong
+67,W1,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+68,CEN,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+69,S1,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+70,S2,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+71,S3,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+72,S5,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+73,S6,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+74,S7,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+75,S8,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+76,S9,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+77,S10,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+78,S11,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+79,S12,กวิน กาญจนพาสน์,Silom Line National Stadium-Bang Wa
+80,W1,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+81,CEN,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+82,S1,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+83,S2,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+84,S3,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+85,S5,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+86,S6,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+87,S7,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+88,S8,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+89,S9,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+90,S10,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+91,S11,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium
+92,S12,มนู อรดีดลเชษฐ์,Silom Line Bang Wa-National Stadium

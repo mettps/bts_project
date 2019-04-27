@@ -1,0 +1,34 @@
+{
+  "name": "mini_project_database",
+  "version": "1.0.0",
+  "description": "BTS station ",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"HelloWorld\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/a5710122/mini_project_database.git"
+  },
+  "author": "Narudon.S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/a5710122/mini_project_database/issues"
+  },
+  "homepage": "https://gitlab.com/a5710122/mini_project_database#README",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "csv-array": "0.0.22",
+    "csv-parser": "^2.2.0",
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "fast-csv": "^2.4.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3",
+    "sqlite3": "^4.0.6"
+  }
+}
